@@ -1,0 +1,14 @@
+# Ignorar archivos relacionados con el entorno virtual
+venv/
+
+# Ignorar archivos relacionados con la base de datos
+*.db
+
+# Ignorar la carpeta instance
+instance/
+
+# Ignorar archivos de caché pycache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

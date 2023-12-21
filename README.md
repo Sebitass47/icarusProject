@@ -1,7 +1,6 @@
+# Icarus Project
 
-Breve descripción de tu aplicación.
-
-## Requisitos
+Proyecto hecho como prueba técnica para la empresa ICARUS.
 
 - Python 3.x
 - pip (instalado con Python)
